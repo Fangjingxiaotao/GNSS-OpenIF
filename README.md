@@ -30,6 +30,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 
 
 ## 📥 Download & Usage  
+The GPS IF data will be made publicly available upon acceptance of the paper.
 You can download the dataset directly from the [GitHub repository](https://github.com/yourusername/GNSS-OpenData).  
 
 ### **Using the Data**
