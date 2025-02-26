@@ -33,7 +33,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 The GPS IF data will be made publicly available upon acceptance of the paper.
 You can download the dataset directly from the [GitHub repository](https://github.com/yourusername/GNSS-OpenData).  
 
-### **Using the Data**
-To process RINEX files, use:  
+### **Citation**
+If you use this work for your research, you may want to cite:  
 ```bash
-teqc +qc data/gnss_data.rinex
+TBC
