@@ -14,6 +14,8 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 - **GNSS Receiver:** [LabSat 3 Wideband](https://www.labsat.co.uk/index.php/en/products/labsat-3-wideband)
 - **Ground truth:** [NovAtel SPAN-CPT](https://novatel.com/products/gnss-inertial-navigation-systems), 10 Hz
 
+![Image 1](assets/image1.png)
+
 | DataSets    | Urban_HK.bin       | GT_20250213_10Hz.txt |
 |-------------|--------------------|----------------------|
 | Total Size  | 9.96 GB (87s)      |      443 KB (102s)   |
