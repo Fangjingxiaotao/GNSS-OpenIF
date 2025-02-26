@@ -1,6 +1,6 @@
 # 📡 Open GNSS Dataset  
 
-This repository provides open-source Global Navigation Satellite System (GNSS) data collected from Tsim Sha Tsui, Hong Kong, on UTC date 13/02/2025. The dataset is useful for GNSS research, positioning applications, and navigation studies.
+This repository provides open-source Global Navigation Satellite System (GNSS) data collected from suburban of Hong Kong. The dataset is useful for GNSS research, positioning applications, and navigation studies.
 
 ## 📂 Dataset Contents
 - `data/gnss_data.rinex` – GNSS raw observations in RINEX format  
@@ -9,21 +9,25 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 - `images/` – Photos of the experimental setup  
 
 ## 🏗 Experiment Details
-- **Location:** [Experiment location]  
-- **Date:** [YYYY-MM-DD]  
-- **GNSS Receiver:** [Model Name]  
-- **Antenna Type:** [Antenna Model]  
-- **Sampling Rate:** [X Hz]  
-- **Observation Type:** [L1, L2, etc.]  
-- **Data Format:** [RINEX, CSV, etc.]  
+- **Location:** Tsim Sha Tsui, Hong Kong  
+- **Date (UTC):** 13/02/2025
+- **Antenna Type:** NovAtel (GPS-703-GGG)
+- **GNSS Receiver:** LABSAT 3W  
+- **Ground truth:** NovAtel SPAN-CPT + IE, 1Hz
 
 ## 📑 Data Format  
-### **CSV File Structure**
-| DataSets    | GPS IF Data        | Ground Truth Data    |
+
+| DataSets    | Urban_HK.bin       | Ground Truth Data    |
 |-------------|--------------------|----------------------|
 | Total Size  | 9.96 GB (87s)      |      443 KB (102s)   |
 | Equipments  | LABSAT 3W          | NovAtel SPAN-CPT + IE|
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
+
+## 🏗 Experiment Details
+- **Sampling Frequency:** 58 MHz
+- **IF Frequency:** 4.58 MHz
+- **Data Format：** 8-bit I/Q samples
+- **Observation Type:** GPS L1 
 
 
 ## 📥 Download & Usage  
