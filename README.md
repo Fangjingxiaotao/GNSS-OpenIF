@@ -21,7 +21,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 ### **CSV File Structure**
 | DataSets    | GPS IF Data        | Ground Truth Data    |
 |-------------|--------------------|----------------------|
-| Total Size  | 9.96 GB (87s)      |                      |
+| Total Size  | 9.96 GB (87s)      |      443 KB (102s)   |
 | Equipments  | LABSAT 3W          | NovAtel SPAN-CPT + IE|
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
 
