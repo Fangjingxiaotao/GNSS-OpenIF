@@ -1,6 +1,6 @@
 # 📡 Open GNSS Dataset  
 
-This repository provides open-source Global Navigation Satellite System (GNSS) data collected from [location] during an experiment conducted on [date]. The dataset is useful for GNSS research, positioning applications, and navigation studies.
+This repository provides open-source Global Navigation Satellite System (GNSS) data collected from Tsim Sha Tsui, Hong Kong, on UTC date 13/02/2025. The dataset is useful for GNSS research, positioning applications, and navigation studies.
 
 ## 📂 Dataset Contents
 - `data/gnss_data.rinex` – GNSS raw observations in RINEX format  
@@ -19,11 +19,11 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 
 ## 📑 Data Format  
 ### **CSV File Structure**
-| DataSets       | GPS IF Data                 | Ground truth Data |
-|--------------|-----------------------------|
-| Total Size   | 9.96 GB (87s)   |                       |
-| Equipments      | LABSAT 3W            | SPAN-CPT          |
-| Antenna     | Novetel(GPS-703-GGG)          | Novetel(GPS-703-GGG) |
+| DataSets    | GPS IF Data        | Ground Truth Data    |
+|-------------|--------------------|----------------------|
+| Total Size  | 9.96 GB (87s)      |                      |
+| Equipments  | LABSAT 3W          | SPAN-CPT             |
+| Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
 
 
 ## 📥 Download & Usage  
