@@ -19,13 +19,12 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 
 ## 📑 Data Format  
 ### **CSV File Structure**
-| Column        | Description                 |
+| DataSets       | GPS IF Data                 | Ground truth Data |
 |--------------|-----------------------------|
-| Time (UTC)   | Timestamp of observation    |
-| Lat (°)      | Latitude (WGS84)            |
-| Lon (°)      | Longitude (WGS84)           |
-| Alt (m)      | Altitude above sea level    |
-| SNR (dBHz)   | Signal-to-noise ratio       |
+| Total Size   | 9.96 GB (87s)   |                       |
+| Equipments      | LABSAT 3W            | SPAN-CPT          |
+| Antenna     | Novetel(GPS-703-GGG)          | Novetel(GPS-703-GGG) |
+
 
 ## 📥 Download & Usage  
 You can download the dataset directly from the [GitHub repository](https://github.com/yourusername/GNSS-OpenData).  
