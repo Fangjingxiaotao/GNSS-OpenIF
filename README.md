@@ -1,6 +1,6 @@
 # 📡 Open GNSS Dataset  
 
-This repository provides open-source Global Navigation Satellite System (GNSS) data collected from suburban Hong Kong. The dataset is useful for GNSS research, positioning applications, and navigation studies.
+This repository provides open-source Global Navigation Satellite System (GNSS) data collected from suburban Hong Kong. The dataset is useful for GNSS research, positioning and navigation studies.
 
 ## 📂 Dataset Contents
 - `GT_20250213_10Hz.txt` – Ground truth data in text format  
