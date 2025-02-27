@@ -14,7 +14,12 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 - **GNSS Receiver:** [LabSat 3 Wideband](https://www.labsat.co.uk/index.php/en/products/labsat-3-wideband)
 - **Ground truth:** [NovAtel SPAN-CPT](https://novatel.com/products/gnss-inertial-navigation-systems), 10 Hz
 
-![Image 1](assets/image1.png)
+
+<figure>
+  <img src="Images/Environment.jpg" alt="Environment" width="800" height="330">
+  <figcaption>Figure 1: (a) Equipment setup and (b) test environment in suburban Hong Kong, showing the test trajectory (red arrow) and sky plot. Satellites in
+green indicate LOS signals, while those in orange represent multipath interference based on ray-tracing analysis.</figcaption>
+</figure>
 
 | DataSets    | Urban_HK.bin       | GT_20250213_10Hz.txt |
 |-------------|--------------------|----------------------|
