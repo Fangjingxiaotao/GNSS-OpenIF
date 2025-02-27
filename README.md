@@ -20,6 +20,11 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
   <figcaption>Figure 1: (a) Equipment setup and (b) test environment in suburban Hong Kong, showing the test trajectory (red arrow) and sky plot. Satellites in
 green indicate LOS signals, while those in orange represent multipath interference based on ray-tracing analysis.</figcaption>
 </figure>
+<figure>
+  <img src="Images/Environment.jpg" alt="Environment" width="800" height="330">
+  <figcaption>Figure 1: (a) Equipment setup and (b) test environment in suburban Hong Kong, showing the test trajectory (red arrow) and sky plot. Satellites in
+green indicate LOS signals, while those in orange represent multipath interference based on ray-tracing analysis.</figcaption>
+</figure>
 
 | DataSets    | Urban_HK.bin       | GT_20250213_10Hz.txt |
 |-------------|--------------------|----------------------|
