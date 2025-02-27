@@ -26,18 +26,17 @@ green indicate LOS signals, while those in orange represent multipath interferen
   <figcaption>Figure 2: User trajectory.</figcaption>
 </figure>
 
+## 📑 Data Format
+- **Sampling Frequency:** 58 MHz
+- **IF Frequency:** 4.58 MHz
+- **Data Format：** 8-bit I/Q samples
+- **Observation Type:** GPS L1
+
 | DataSets    | Urban_HK.bin       | GT_20250213_10Hz.txt |
 |-------------|--------------------|----------------------|
 | Total Size  | 9.96 GB (87s)      |      443 KB (102s)   |
 | Equipments  | LABSAT 3W          | NovAtel SPAN-CPT, 10 Hz|
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
-
-## 📑 IF Data Format
-- **Sampling Frequency:** 58 MHz
-- **IF Frequency:** 4.58 MHz
-- **Data Format：** 8-bit I/Q samples
-- **Observation Type:** GPS L1 
-
 
 ## 📥 Download & Usage  
 The GPS IF data will be made publicly available upon acceptance of the paper.
