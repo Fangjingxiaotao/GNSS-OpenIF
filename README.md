@@ -22,7 +22,7 @@ green indicate LOS signals, while those in orange represent multipath interferen
 </figure>
 
 <figure>
-  <img src="Images/User trajectory.gif" alt="User trajectory" height="330">
+  <img src="Images/User trajectory.gif" alt="User trajectory" height="300">
   <figcaption>Figure 2: User trajectory.</figcaption>
 </figure>
 
