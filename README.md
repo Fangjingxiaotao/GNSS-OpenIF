@@ -1,6 +1,6 @@
 # 📡 Open GNSS Dataset  
 
-This repository provides open-source Global Navigation Satellite System (GNSS) data collected from suburban Hong Kong. The data offer command cases where a dynamic pedestrian user is under a pure multipath interference. The dataset is useful for GNSS research, positioning and navigation studies.
+This repository provides open-source Global Navigation Satellite System (GNSS) data collected from a suburban area in Hong Kong. The dataset captures scenarios where a dynamic pedestrian user is subject to pure multipath interference. It is valuable for GNSS multipath detection/mitigation research.
 
 ## 📂 Dataset Contents
 - `GT_20250213_10Hz.txt` – Ground truth data in text format  
@@ -14,7 +14,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 - **GNSS Receiver:** [LabSat 3 Wideband](https://www.labsat.co.uk/index.php/en/products/labsat-3-wideband)
 - **Ground truth:** [NovAtel SPAN-CPT](https://novatel.com/products/gnss-inertial-navigation-systems), 10 Hz
 
-Fig. 1 provides the experiment setup and test environment. It is likely that the signal coming from the south is reflected on the building surface, and both direct and reflected signals are received. The sky plot in Fig. 1 (b) shows the satellite visibility and signal classification results from ray-tracing techniques. Utilizing user ground truth information, satellite ephemeris, and 3D building models, the ray-tracing algorithm simulates the most possible signal paths. Therefore, it states that PRN 22 is geometrically possible to be multipath interfered during all the test and PRN 5 is geometrically possible to be multipath interfered in several epochs of the test.
+Figure 1 illustrates the experiment setup and test environment. It is likely that signals originating from the south are reflected off the building surface, resulting in the reception of both direct and reflected signals. The sky plot in Figure 1(b) presents satellite visibility and signal classification results obtained from ray-tracing techniques. By incorporating user ground truth information, satellite ephemeris, and 3D building models, the ray-tracing algorithm simulates the most probable signal propagation paths. As a result, the analysis indicates that PRN 22 is geometrically susceptible to multipath interference throughout the entire test, while PRN 5 is likely to experience multipath interference during specific epochs of the experiment.
 <figure>
   <img src="Images/Environment.jpg" alt="Environment" width="800" height="330">
   <figcaption>Figure 1: (a) Equipment setup and (b) test environment in suburban Hong Kong, showing the test trajectory (red arrow) and sky plot. Satellites in
@@ -22,7 +22,7 @@ green indicate LOS signals, while those in orange represent multipath interferen
 </figure>
 
 
-Fig. 2 illustrates the pedestrian motion. The pedestrian conducts reciprocating motion perpendicular to the building surface for several reasons. First, enlarge the velocity projection onto the signal path and thereby expand the Doppler shift of the reflected signal. Second, the Doppler shift of the reflected signal experiences varying values in time, which is beneficial to characterize its impact on receiver measurement.
+Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back and forth perpendicular to the building surface for several reasons. First, this motion increases the velocity projection onto the signal path, thereby amplifying the Doppler shift of the reflected signal. Second, the time-varying nature of the reflected signal’s Doppler shift helps characterize its impact on receiver measurements, providing valuable insights into multipath interference effects.
 <figure>
   <img src="Images/User trajectory.gif" alt="User trajectory" height="300">
   <figcaption>Figure 2: User trajectory.</figcaption>
@@ -43,8 +43,11 @@ Fig. 2 illustrates the pedestrian motion. The pedestrian conducts reciprocating 
 ## 📥 Download & Usage  
 The GPS IF data will be made publicly available upon acceptance of the paper.
 You can download the dataset directly from the [GitHub repository](https://github.com/yourusername/GNSS-OpenData).  
+For questions or further details, please contact: 
 
 ### **Citation**
+
 If you use this work for your research, you may want to cite:  
 ```bash
 TBC
+
