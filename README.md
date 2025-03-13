@@ -36,7 +36,7 @@ Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back 
 
 | DataSets    | Urban_HK.bin       | GT_20250213_10Hz.txt |
 |-------------|--------------------|----------------------|
-| Total Size  | 9.96 GB (87s)      |      443 KB (102s)   |
+| Total Size  | 9.96 GB (87 seconds)      |      443 KB (102 seconds)   |
 | Equipments  | LABSAT 3W          | NovAtel SPAN-CPT, 10 Hz|
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
 
