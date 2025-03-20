@@ -42,7 +42,7 @@ Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back 
 
 ## 📥 Download & Usage  
 The Ground truth data will be made publicly available upon publication of the paper.
-You can download the GPS IF data directly from the [GitHub repository]([https://github.com/yourusername/GNSS-OpenData](https://github.com/Fangjingxiaotao/GNSS-OpenIF)).  
+You can download the GPS IF data directly from the [Urban_HK.bin](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/Urban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=4u7w5bqw&dl=0) 
 For questions or further details, please contact: [jingxiaotao2.fang@connect.polyu.hk](mailto:jingxiaotao2.fang@connect.polyu.hk)
 
 ### **Citation**
