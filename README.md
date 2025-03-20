@@ -4,7 +4,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 
 ## 📂 Dataset Contents
 - `GT_20250213_10Hz.txt` – Ground truth data in text format (not yet available)
-- `Urban_HK.bin` – GPS intermediate frequency (IF) data in binary format 
+- `Urban_HK.md` – Instruction to download the GPS intermediate frequency (IF) data in binary format 
 - `images/` – Photos of the experimental setup  
 
 ## 🏗 Experiment Details
