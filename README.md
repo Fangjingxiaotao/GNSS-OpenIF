@@ -3,8 +3,8 @@
 This repository provides open-source Global Navigation Satellite System (GNSS) data collected from a suburban area in Hong Kong. The dataset captures scenarios where a dynamic pedestrian user is subject to pure multipath interference. It is valuable for GNSS multipath detection/mitigation research.
 
 ## 📂 Dataset Contents
-- `GT_20250213_10Hz.txt` – Ground truth data in text format  
-- `Urban_HK.bin` – GPS intermediate frequency (IF) data in binary format (not yet available)
+- `GT_20250213_10Hz.txt` – Ground truth data in text format (not yet available)
+- `Urban_HK.bin` – GPS intermediate frequency (IF) data in binary format 
 - `images/` – Photos of the experimental setup  
 
 ## 🏗 Experiment Details
@@ -41,8 +41,8 @@ Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back 
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
 
 ## 📥 Download & Usage  
-The GPS IF data will be made publicly available upon publication of the paper.
-You can download the dataset directly from the [GitHub repository]([https://github.com/yourusername/GNSS-OpenData](https://github.com/Fangjingxiaotao/GNSS-OpenIF)).  
+The Ground truth data will be made publicly available upon publication of the paper.
+You can download the GPS IF data directly from the [GitHub repository]([https://github.com/yourusername/GNSS-OpenData](https://github.com/Fangjingxiaotao/GNSS-OpenIF)).  
 For questions or further details, please contact: [jingxiaotao2.fang@connect.polyu.hk](mailto:jingxiaotao2.fang@connect.polyu.hk)
 
 ### **Citation**
