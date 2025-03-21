@@ -40,6 +40,8 @@ Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back 
 | Equipments  | LABSAT 3W          | NovAtel SPAN-CPT, 10 Hz|
 | Antenna     | NovAtel (GPS-703-GGG) | NovAtel (GPS-703-GGG) |
 
+**Note**: During the processing of GPS IF data, it is recommended to exclude PRN 12 from the navigation solution due to its poor signal quality.
+
 ## 📥 Download & Usage  
 The Ground truth data will be made publicly available upon publication of the paper.
 You can download the GPS IF data directly from the [Urban_HK.bin](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/Urban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=4u7w5bqw&dl=0).
