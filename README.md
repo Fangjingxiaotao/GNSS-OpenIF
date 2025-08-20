@@ -58,7 +58,7 @@ Ray-tracing detects multipath events supported by reflection geometry. Although 
 - `S1_GT_20250213_1Hz.txt` – Ground truth of Scenario 1 (coming soon).  
 - `S2_GT_20250603_1Hz.txt` – Ground truth of Scenario 2 (coming soon).  
 - `S1_suburban_HK.md` – Link to Scenario 1 GPS IF data.  
-- `S2_urban_HK.md` – Link to Scenario 2 GPS IF data (coming soon).  
+- `S2_urban_HK.md` – Link to Scenario 2 GPS IF data.  
 - `images/` – Photos of the experimental setup.  
 
 ---
@@ -85,8 +85,9 @@ Ray-tracing detects multipath events supported by reflection geometry. Although 
 ## 📥 Download & Usage  
 
 Ground truth data will be released upon publication.  
-Scenario 1 IF data can be downloaded from:  
+The IF data can be downloaded from:  
 👉 [S1_suburban_HK.bin (Dropbox link)](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/Urban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=4u7w5bqw&dl=0)  
+👉 [S2_urban_HK.bin (Dropbox link)](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/S1_suburban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=uk8zlofa&dl=0)
 
 📩 For questions, contact: [jingxiaotao2.fang@connect.polyu.hk](mailto:jingxiaotao2.fang@connect.polyu.hk)  
 
