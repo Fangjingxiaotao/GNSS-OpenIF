@@ -87,7 +87,7 @@ Ray-tracing detects multipath events supported by reflection geometry. Although 
 Ground truth data will be released upon publication.  
 The IF data can be downloaded from:  
 👉 [S1_suburban_HK.bin (Dropbox link)](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/Urban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=4u7w5bqw&dl=0)  
-👉 [S2_urban_HK.bin (Dropbox link)](https://www.dropbox.com/scl/fi/o18ejryo123upfvks5s7w/S1_suburban_HK.bin?rlkey=kxjpoz51fv3lzg8lnnrkk2sqe&st=uk8zlofa&dl=0)
+👉 [S2_urban_HK.bin (Dropbox link)](https://www.dropbox.com/scl/fi/g79vor17skqgdm740ka13/S2_urban_HK.bin?rlkey=lrywu9e3j7j3s68hm3q8pdj52&st=tvkmz1p2&dl=0)
 
 📩 For questions, contact: [jingxiaotao2.fang@connect.polyu.hk](mailto:jingxiaotao2.fang@connect.polyu.hk)  
 
