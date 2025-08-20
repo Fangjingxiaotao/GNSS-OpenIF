@@ -17,7 +17,7 @@ green indicate LOS signals, while those in orange represent multipath interferen
 
 Figure 2 illustrates the pedestrian's motion pattern. The pedestrian moves back and forth perpendicular to the building surface for several reasons. First, this motion increases the velocity projection onto the signal path, thereby amplifying the Doppler shift of the reflected signal. Second, the time-varying nature of the reflected signal’s Doppler shift helps characterize its impact on receiver measurements, providing valuable insights into multipath interference effects.
 <figure>
-  <img src="Images/User trajectory_S1.gif" alt="User trajectory" height="300">
+  <img src="Images/User trajectory_S1.gif" alt="User trajectory_S1" height="300">
   <figcaption>Figure 2: User trajectory.</figcaption>
 </figure>
 
