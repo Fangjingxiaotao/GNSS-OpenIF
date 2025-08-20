@@ -20,7 +20,7 @@ Figure 1 shows the experiment setup and environment. Signals arriving from the s
 
 <figure>
   <img src="Images/Environment_S1.jpg" alt="Environment_S1" width="800" height="330">
-  <figcaption><b>Figure 1:</b> (a) Test environment and trajectory (red arrow). Green = LOS, Orange = multipath (ray-tracing). (b) Equipment setup.</figcaption>
+  <figcaption><b>Figure 1:</b> (a) Test environment and trajectory (red arrow). For the skyplot: Green = LOS, Orange = multipath (ray-tracing). (b) Equipment setup.</figcaption>
 </figure>  
 
 Figure 2 shows the pedestrian’s trajectory. The user walks back and forth perpendicular to the building to:  
@@ -47,7 +47,7 @@ Ray-tracing detects multipath events supported by reflection geometry. Although 
 
 <figure>
   <img src="Images/Environment_S2.jpg" alt="Environment_S2" width="800" height="330">
-  <figcaption><b>Figure 3:</b> (a) Urban test trajectory (pink). (b) Equipment setup.</figcaption>
+  <figcaption><b>Figure 3:</b> (a) Urban test trajectory (pink). For the skyplot: Green = LOS, Orange = multipath (ray-tracing) (b) Equipment setup.</figcaption>
 </figure>  
 
 ---
