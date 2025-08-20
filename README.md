@@ -92,6 +92,9 @@ The IF data can be downloaded from:
 📩 For questions, contact: [jingxiaotao2.fang@connect.polyu.hk](mailto:jingxiaotao2.fang@connect.polyu.hk)  
 
 ---
+## 🙏 Acknowledgments
+
+We gratefully acknowledge **Huang Feng**, **Liu Xikun**, **Tan Qijun**, **Zhou Zihong**, and **Li Zhengdao** for their contributions to the dataset collection and processing.
 
 ## 📖 Citation  
 
