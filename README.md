@@ -1,10 +1,12 @@
 # 📡 Open GNSS Dataset  
 
-This repository provides open-source Global Navigation Satellite System (GNSS) data collected from a suburban area in Hong Kong. The dataset captures scenarios where a dynamic pedestrian user is subject to pure multipath interference. It is valuable for GNSS multipath detection/mitigation research.
+This repository provides open-source Global Navigation Satellite System (GNSS) data collected from urban areas in Hong Kong. The dataset captures the scenario 1 (S1) where a dynamic pedestrian user is moving near a building and the scenario 2 (S2), where a vechile is navigating in a dense urban area. It is valuable for GNSS multipath detection/mitigation research.
 
 ## 📂 Dataset Contents
-- `GT_20250213_10Hz.txt` – Ground truth data in text format (not yet available)
-- `Urban_HK.md` – Instruction to download the GPS intermediate frequency (IF) data in binary format 
+- `S1_GT_20250213_1Hz.txt` – Ground truth data of scenario 1 in text format (not yet available)
+- `S2_GT_20250603_1Hz.txt` – Ground truth data of scenario 2 in text format (not yet available)
+- `S1_suburban_HK.md` – Instruction to download the GPS intermediate frequency (IF) data of scenario 1
+- `S2_urban_HK.md` – Instruction to download the GPS IF data of scenario 2
 - `images/` – Photos of the experimental setup  
 
 ## 🏗 Experiment Details
@@ -12,7 +14,7 @@ This repository provides open-source Global Navigation Satellite System (GNSS) d
 - **Date (UTC):** 13/02/2025
 - **Antenna Type:** [NovAtel (GPS-703-GGG)](https://novatel.com/support/previous-generation-products-drop-down/previous-generation-products/gps-703-ggg-antenna)
 - **GNSS Receiver:** [LabSat 3 Wideband](https://www.labsat.co.uk/index.php/en/products/labsat-3-wideband)
-- **Ground truth:** [NovAtel SPAN-CPT](https://novatel.com/products/gnss-inertial-navigation-systems), 10 Hz
+- **Ground truth:** [NovAtel SPAN-CPT](https://novatel.com/products/gnss-inertial-navigation-systems), 1 Hz
 
 Figure 1 illustrates the experiment setup and test environment. It is likely that signals originating from the south are reflected off the building surface, resulting in the reception of both direct and reflected signals. The sky plot in Figure 1(b) presents satellite visibility and signal classification results obtained from ray-tracing techniques. By incorporating user ground truth information, satellite ephemeris, and 3D building models, the ray-tracing algorithm simulates the most probable signal propagation paths. As a result, the analysis indicates that PRN 22 is geometrically susceptible to multipath interference throughout the entire test, while PRN 5 is likely to experience multipath interference during specific epochs of the experiment.
 <figure>
