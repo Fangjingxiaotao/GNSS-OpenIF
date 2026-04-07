@@ -100,4 +100,10 @@ We gratefully acknowledge **Huang Feng**, **Liu Xikun**, **Tan Qijun**, **Zhou Z
 
 If you use this dataset, please cite:  
 ```bibtex
-TBC
+@article{fang2026multipath,
+  author  = {Fang, Jingxiaotao and Xu, Bing and Liu, Xikun and Hsu, Li-Ta},
+  title   = {Multipath parameter estimation using GNSS receiver Doppler measurements},
+  journal = {IEEE Transactions on Aerospace and Electronic Systems},
+  year    = {2026},
+  note    = {Accepted for publication}
+}
