@@ -105,5 +105,5 @@ If you use this dataset, please cite:
   title   = {Multipath parameter estimation using GNSS receiver Doppler measurements},
   journal = {IEEE Transactions on Aerospace and Electronic Systems},
   year    = {2026},
-  note    = {Accepted for publication}
+  note    = {Early access}
 }
